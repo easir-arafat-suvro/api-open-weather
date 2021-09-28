@@ -35,9 +35,3 @@ const searchInfo = weatherInfo => {
 `;
     searchWeather.appendChild(div);
 }
-
-
-
-
-
-
